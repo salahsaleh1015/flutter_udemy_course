@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297706986861",
+    "project_id": "social-udemy-app",
+    "storage_bucket": "social-udemy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297706986861:android:2616df044244d06cec8e64",
+        "android_client_info": {
+          "package_name": "com.example.flutter_udemy_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297706986861-85433m72lf41iuerldmpmu22vcgkdmkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtTPqTuC0bM-dvO7J6KjB_uRLjEBWsniU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297706986861-85433m72lf41iuerldmpmu22vcgkdmkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,21 @@
-   import 'package:flutter_bloc/flutter_bloc.dart';
+abstract class AppStates {}
 
-abstract class TasksStates {}
-class TasksInitialState extends TasksStates{}
+class AppInitialState extends AppStates {}
+
+class AppChangeBottomNavBarState extends AppStates {}
+
+class AppChangeAppMoodState extends AppStates {}
+
+class AppCreateDatabaseState extends AppStates {}
+
+class AppGetDatabaseState extends AppStates {}
+
+class AppUpdateDatabaseState extends AppStates {}
+
+class AppInsertDatabaseState extends AppStates {}
+
+class AppChangeBottomSheetState extends AppStates {}
+
+class AppGetLoadingDatabaseState extends AppStates {}
+
+class AppDeleteDatabaseState extends AppStates {}
